@@ -1,0 +1,51 @@
+div {
+    margin: 0px auto;
+}
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+.pancho {
+    margin: 150px;
+}
+#pan-arriba {
+    background-color: rgb(230, 168, 92);
+    height: 100px;
+    width: 600px;
+    border-top-left-radius: 220px;
+    border-top-right-radius: 220px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom: 10px solid rgb(201, 127, 37);
+}
+#salchicha {
+    background-color: brown;
+    height: 90px;
+    width: 700px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius:100px ;
+    border-bottom-right-radius: 100px;
+}
+#pan-abajo {
+    background-color: rgb(230, 168, 92);
+    height: 100px;
+    width: 600px;
+    border-bottom-left-radius: 220px;
+    border-bottom-right-radius: 220px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top: 10px solid rgb(201, 127, 37);
+}
+#parrilla {
+    background-color:  rgb(122, 31, 31);
+    height: 45px;
+    width: 620px;
+    position: absolute;
+    top: 455px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    border-radius: 150em / 10em;
+}
